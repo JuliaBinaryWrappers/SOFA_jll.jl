@@ -1,0 +1,160 @@
+[[SOFA]]
+arch = "aarch64"
+git-tree-sha1 = "1b107bfe4bee39e1330d36f9d774d3196c129a81"
+os = "macos"
+
+    [[SOFA.download]]
+    sha256 = "ca97933f065155a869d9316b9188f78a79179ae704e733e739e5da06a1610a11"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.aarch64-apple-darwin.tar.gz"
+[[SOFA]]
+arch = "aarch64"
+git-tree-sha1 = "2be6309552b02ad912a420fae326b4d069d0d3a3"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "1a83f15a24efd15aae30daf139e2e7400cc627dfb69d03d1d68f584bf14ea6d9"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.aarch64-linux-gnu.tar.gz"
+[[SOFA]]
+arch = "aarch64"
+git-tree-sha1 = "6fc590954afb33d8d2a99432f97472e8f4434fbb"
+libc = "musl"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "da74e6e8eef6560480ca2324a04ed1ec88db5d1433904e531a91aca9ffcc4994"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.aarch64-linux-musl.tar.gz"
+[[SOFA]]
+arch = "aarch64"
+git-tree-sha1 = "1439597b994ea4386146619691ee03824b83f2cd"
+os = "freebsd"
+
+    [[SOFA.download]]
+    sha256 = "357fc9249891f9871e618f29763de9495963b2fc2aaee324a012a6eb3c6c6a5e"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.aarch64-unknown-freebsd.tar.gz"
+[[SOFA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b75fbc3d614aa9e34a3835d22be0309b30cc27bc"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "fe3f2ae5e27593d44c13cfc01b49f6ba280dcd10f7965b8a8ab842a5400096c5"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.armv6l-linux-gnueabihf.tar.gz"
+[[SOFA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0a7d17026424928c8c9ffec8ff45c24dea829565"
+libc = "musl"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "6e90a792f3bd1f384166538e57da2f3eac33d82b622431aa6af82d799e9a9b0e"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.armv6l-linux-musleabihf.tar.gz"
+[[SOFA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "08a3b700f880a1a810d8159990d5d06192ede978"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "76e0f7879dc319fd3ca3911e1376cdcdb37ec2cb8cc517663ee8b048d403523c"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.armv7l-linux-gnueabihf.tar.gz"
+[[SOFA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d7b8911fb7ffd4788dd90bcc994ec1653a7735f2"
+libc = "musl"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "d17db765336b3bb9b52902bd73de2258d14593bd032fa00e13a7d375d0a348ec"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.armv7l-linux-musleabihf.tar.gz"
+[[SOFA]]
+arch = "i686"
+git-tree-sha1 = "b6636ec1c54dad91ac19b3a9428fef20cc7f358d"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "af45fa896da6c127149d43d679cf8a88030920fdb38795e45b95009f967f5215"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.i686-linux-gnu.tar.gz"
+[[SOFA]]
+arch = "i686"
+git-tree-sha1 = "d7cde101a8addc2597435e5e514e4eece407ca48"
+libc = "musl"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "f9fc8756a78046c00af4d89671c9ef68d0ede99257ca3dff992fc193fb82be23"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.i686-linux-musl.tar.gz"
+[[SOFA]]
+arch = "i686"
+git-tree-sha1 = "7fc23d039bbdf989a67222977270da30867b3f6e"
+os = "windows"
+
+    [[SOFA.download]]
+    sha256 = "c53365720f05fa74c11966b3e80f3583dba245ad3ee22e0597b6b8f30480a54a"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.i686-w64-mingw32.tar.gz"
+[[SOFA]]
+arch = "powerpc64le"
+git-tree-sha1 = "617ecb3df28eb7302866a1b172970ce8347b8a02"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "2aac3262fda88f45210013103c59983eda11bb92fae6b887236209303346dbf4"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.powerpc64le-linux-gnu.tar.gz"
+[[SOFA]]
+arch = "riscv64"
+git-tree-sha1 = "752d68f7831c385b38d0920fe0814de4dfbc4eed"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "95ee2b449a883f9860d0745bb90b49cb302829e1ce4445cb36c95e8740a8dc12"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.riscv64-linux-gnu.tar.gz"
+[[SOFA]]
+arch = "x86_64"
+git-tree-sha1 = "51423ed3c0c5ed4cbdf5fca14ff58a1e5ef27dfe"
+os = "macos"
+
+    [[SOFA.download]]
+    sha256 = "1e4450a1e44d8bbb17280458d3161d5dd522d92c48dc6523e16bb68013c44d35"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.x86_64-apple-darwin.tar.gz"
+[[SOFA]]
+arch = "x86_64"
+git-tree-sha1 = "46033cc2e761b0d7bed8207576dc8871e39f1bab"
+libc = "glibc"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "78f7c342cee5889a32a2ddf42ae1c9cbfb7791ab387132af310056696b3805df"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.x86_64-linux-gnu.tar.gz"
+[[SOFA]]
+arch = "x86_64"
+git-tree-sha1 = "88d4053ffef68326a2b21ea610909d5b73a35aee"
+libc = "musl"
+os = "linux"
+
+    [[SOFA.download]]
+    sha256 = "45a8d962f97cb32dcce28dddb2e79e724f0d63e4634be4d02b19668979e6603e"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.x86_64-linux-musl.tar.gz"
+[[SOFA]]
+arch = "x86_64"
+git-tree-sha1 = "2bbe78af394089433f5d360b4929f741db173c90"
+os = "freebsd"
+
+    [[SOFA.download]]
+    sha256 = "da5d40af2ce6f04aadc209678f14a8796a5567993c3d0925ad2c558123366693"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.x86_64-unknown-freebsd.tar.gz"
+[[SOFA]]
+arch = "x86_64"
+git-tree-sha1 = "f929616f9cda3c26a368dde32d1d6934a01a531c"
+os = "windows"
+
+    [[SOFA.download]]
+    sha256 = "499101d3f9f909a17584eaf19a219da7cdbf1fc8da93c0415d3cd2372a17be41"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2019.7.22+0/SOFA.v2019.7.22.x86_64-w64-mingw32.tar.gz"
