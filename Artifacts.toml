@@ -1,160 +1,160 @@
 [[SOFA]]
 arch = "aarch64"
-git-tree-sha1 = "c8abfc43fef84ecff8cced411f3a961455a6c002"
+git-tree-sha1 = "95be575e9fd84a7a9d2713e2eed794d8cb606ad6"
 os = "macos"
 
     [[SOFA.download]]
-    sha256 = "8031b177b4bfb68129c9c12222d915288ee22bb700dc5a168aecc074f9adce6e"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.aarch64-apple-darwin.tar.gz"
+    sha256 = "5a3c9201fd04f6e5fefce41a658957c7e8ec45028a79b05da48587205f08bc68"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.aarch64-apple-darwin.tar.gz"
 [[SOFA]]
 arch = "aarch64"
-git-tree-sha1 = "1ae9da17396d72b81d5f7bb6b4ff583f529e96c8"
+git-tree-sha1 = "4cd9e5dbff429a6fe2a2cc727a0a037718d7efce"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "faaacfd30df67b3a1cd5e035f5a4da572162c3832af2384dcd32dc69fed95a99"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.aarch64-linux-gnu.tar.gz"
+    sha256 = "d193f0dd5d005f2ec6301ed7767fe8ab465f5e650d260a9f57f7dfbaea90f974"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.aarch64-linux-gnu.tar.gz"
 [[SOFA]]
 arch = "aarch64"
-git-tree-sha1 = "1e319fb075c1372af0f2c95a1df2353c066b626a"
+git-tree-sha1 = "011b679432cc355eb868322019af71f19580b896"
 libc = "musl"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "eb3bcd9bbcdf55b01d804b1301b95f0cdef7c1a6dcb7ce9101b8f2ea3ff6e123"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.aarch64-linux-musl.tar.gz"
+    sha256 = "583073710b1f2f89a28a20faf98e1a4c25d7a588141196b04d6bac020c4f0a84"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.aarch64-linux-musl.tar.gz"
 [[SOFA]]
 arch = "aarch64"
-git-tree-sha1 = "89761e893893a36e5c227793c39a563fc09e901f"
+git-tree-sha1 = "e94616af313c27e04022c5495aa90685d93a023a"
 os = "freebsd"
 
     [[SOFA.download]]
-    sha256 = "8d3b406a019f020b8901033f10016b214584e27f0ba68b0897602329e51d78da"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "3ba61b80b25f2cf302b604685528997b1561fef315c3eae5c096166829da07da"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.aarch64-unknown-freebsd.tar.gz"
 [[SOFA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "89cef57a4d065acbbf000fdb18990debe824188c"
+git-tree-sha1 = "b5fcc3909a723f7eafa4f265f8bcde403f337070"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "1025d6ded1f74fe29653c0040bb125c9942ed452060d8e92f868ba1574df1ccf"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "6ead644c2519ed94f615c94511c84fe88165f321207871d271f8011aca1a9593"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.armv6l-linux-gnueabihf.tar.gz"
 [[SOFA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "41352e5b1d7a86659f2e015cb91859205d802d3e"
+git-tree-sha1 = "77689b951e5f8deb1835b210c3a37d0f0819bb2e"
 libc = "musl"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "8abe284eea313d379eb639fb920e6cdb532db0836ea28b3bf8d83211d443d0c2"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "1865d85a1f1f70c4b5ff23cf15dc7e9eed79a018afa69e6421f4f35f4a735672"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.armv6l-linux-musleabihf.tar.gz"
 [[SOFA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5ef837437771bd3f658476a6f6648b0e8a978856"
+git-tree-sha1 = "da4d4864a1736ada033d2fe2481d03c4b8b960fb"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "4adc5bf6a64650ac5edc3bf92ce605abe2b03c2271435fe8fcc2b0f6e9dd9318"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "0850ad4a84b85de020f2e50bc4a33938f0fb7ef53d56bce52accd7da9fb41e40"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.armv7l-linux-gnueabihf.tar.gz"
 [[SOFA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5394bf2d8a54722df5cd7fecc1af2b34130f674c"
+git-tree-sha1 = "5b55114276e3b21a879a63636d8459c1353fbff9"
 libc = "musl"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "84bb1b65f102ff1df185a49e9a49e8c9a4e2e467b6d82ec12752fe39e93d6ea6"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1b81971ebdf6a69f0ac97a9dd2fe708c761667d5bfed449a790886b3a13a4cdd"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.armv7l-linux-musleabihf.tar.gz"
 [[SOFA]]
 arch = "i686"
-git-tree-sha1 = "a2b12488138bb4cc9ec70d3f0aef8760c0d39cd7"
+git-tree-sha1 = "05f6144a2fde96f77f8b9377ff3bd6fc1826481f"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "b57a48fe7ab279e9074991afec0b63cec02bf46b08639b485a94509eceb5e32e"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.i686-linux-gnu.tar.gz"
+    sha256 = "85fe801d411a31c29127cff27f8fb2f311dea32aefc63c7db55f1b3eb3aab936"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.i686-linux-gnu.tar.gz"
 [[SOFA]]
 arch = "i686"
-git-tree-sha1 = "55d5676afb52b62e97e88da6d96f2223ae93d267"
+git-tree-sha1 = "19aed5c39c5b2f1ea0a73b491835bf3ec397d9bb"
 libc = "musl"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "540d384539ef2ebfe9b1a15d9660c726e369c7b635ff998f1e6eb873469502d2"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.i686-linux-musl.tar.gz"
+    sha256 = "55b80300f9fe5eff4cf1d1196c6130cb9a70bbc1a8cba24b0844ad7b44defc36"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.i686-linux-musl.tar.gz"
 [[SOFA]]
 arch = "i686"
-git-tree-sha1 = "4153597ad8b7cc81cda816b6399464f8d88e6450"
+git-tree-sha1 = "80dbee7aa2488a0b3ac4943e86deeaf4734fd58c"
 os = "windows"
 
     [[SOFA.download]]
-    sha256 = "9c822b34808af46de823ab72980867098f6d5b27bf7daf6ca9246afab3dc7e77"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.i686-w64-mingw32.tar.gz"
+    sha256 = "9ea311c079ed6d9909d49f142882178ea7d11c3f90da5e3245edbbe6e604a723"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.i686-w64-mingw32.tar.gz"
 [[SOFA]]
 arch = "powerpc64le"
-git-tree-sha1 = "a94d3c7c29a4b9b95c29bc2931ae34f6e42a4e45"
+git-tree-sha1 = "aa1e846af04e8d83d6ace6c6cdaa9ac517df5bbe"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "ed2f9d2227b3f1081cc512d07cb493d7c2df0cdf600ebb19268fc34de850aabe"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "71e047e52bceed074f243938a180590fb127b787282e4fc0cac96db75ed7e59a"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.powerpc64le-linux-gnu.tar.gz"
 [[SOFA]]
 arch = "riscv64"
-git-tree-sha1 = "7b029d22ac2a654f61d2adc9054735bbff52b070"
+git-tree-sha1 = "da6e96569ff6212978bd84bcbe1e9ccdfbd8fd76"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "6fa2efaa6cbc2cf7da8bf3153f35ef8b81c546fa2be0a8f7bf3e106f314d66b5"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.riscv64-linux-gnu.tar.gz"
+    sha256 = "f39eb411074d69c2f63bbe64d58f17c4e1c7cdc33df2768ee7e1c6825006f0b5"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.riscv64-linux-gnu.tar.gz"
 [[SOFA]]
 arch = "x86_64"
-git-tree-sha1 = "21b0de5044958521c3c2dc9f4e3c9475c6300169"
+git-tree-sha1 = "b7c04dd6939157e3d445eb5ffa5b8126bc619b68"
 os = "macos"
 
     [[SOFA.download]]
-    sha256 = "2854fc1f9735ea5bb2b1f8fee91d37d039394e6593e76891d91ad420f476526d"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.x86_64-apple-darwin.tar.gz"
+    sha256 = "987a40169a13dac0a2e27d800a7e94f65c4cb773374c8b2abd938f49b01e3568"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.x86_64-apple-darwin.tar.gz"
 [[SOFA]]
 arch = "x86_64"
-git-tree-sha1 = "7db1171bad765707f9571a80f8d5e29c084987a5"
+git-tree-sha1 = "1d527da8c8350a630227dcad7852bf5488df9f17"
 libc = "glibc"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "ba1c1bb72f63b4296c2bb29cb62842e0b52b1bc63953bbce0e8ffa35a1c0304b"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.x86_64-linux-gnu.tar.gz"
+    sha256 = "727d470e3e6512b24699d624902a84008438258bc23bf7590e5601ab24dc2226"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.x86_64-linux-gnu.tar.gz"
 [[SOFA]]
 arch = "x86_64"
-git-tree-sha1 = "d1daba7097327d4768214e0e8e6a948434cc93d5"
+git-tree-sha1 = "88793c7bdff3ac39ebd41f4c71c8c5e89b153410"
 libc = "musl"
 os = "linux"
 
     [[SOFA.download]]
-    sha256 = "b70aefc081f407c997136a8131cc09481541323598d282c5ffd2440d011e5c45"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.x86_64-linux-musl.tar.gz"
+    sha256 = "a1a63751e27175684b87e8b511d56294d8ea17ccb3107f0d1abe1111b28127db"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.x86_64-linux-musl.tar.gz"
 [[SOFA]]
 arch = "x86_64"
-git-tree-sha1 = "19f8389aa98893308abfedb739aa862bbb8dd47c"
+git-tree-sha1 = "ec734e83b1b6c45653f26f53856f22d297410c02"
 os = "freebsd"
 
     [[SOFA.download]]
-    sha256 = "fe55c1ee986b9731651d203d3914c137e4ddd9168af40a92ab826e2379c0a815"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7bae0bff825458520a5f8f8e44092e3c1b23ed181bf9573e46421d683fb54ecd"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.x86_64-unknown-freebsd.tar.gz"
 [[SOFA]]
 arch = "x86_64"
-git-tree-sha1 = "549b98a9d85d76e9d981eb282e00618f20f60b00"
+git-tree-sha1 = "85fa7dfb78a16b9b7537143a037e3c34cefcc7ca"
 os = "windows"
 
     [[SOFA.download]]
-    sha256 = "dd1f2f830cfc00bf98553f889a9083cc5c016c824042390aa9278ee53c7adc33"
-    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2021.5.12+0/SOFA.v2021.5.12.x86_64-w64-mingw32.tar.gz"
+    sha256 = "590eb62b512a25bd4a011963a0cd3b1f23d7349eb377034328c863d969f6aba7"
+    url = "https://github.com/JuliaBinaryWrappers/SOFA_jll.jl/releases/download/SOFA-v2023.10.11+0/SOFA.v2023.10.11.x86_64-w64-mingw32.tar.gz"
